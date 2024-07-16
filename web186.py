@@ -16,7 +16,6 @@ st.write("This app to increase your productivity.")
 for index, todo in enumerate(todos):
     checkbox = st.checkbox(todo, key=todo)
     if checkbox:
-        print("Removing", todo)
         todos.pop(index)
         functions.save_todos(todos)
         del st.session_state[todo]
