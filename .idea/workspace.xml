@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d77b13db-6efd-4a4d-95d7-6b427faff575" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/TodoWeb.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TodoWeb.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todos.txt" beforeDir="false" afterPath="$PROJECT_DIR$/todos.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web186.py" beforeDir="false" afterPath="$PROJECT_DIR$/web186.py" afterDir="false" />
-    </list>
+    <list default="true" id="d77b13db-6efd-4a4d-95d7-6b427faff575" name="Changes" comment="initial commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,7 +45,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog",
+    "settings.editor.selected.configurable": "com.intellij.pycharm.community.ide.impl.configuration.PythonContentEntriesConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -78,7 +71,7 @@
       <option name="presentableId" value="Default" />
       <updated>1721084875597</updated>
       <workItem from="1721084878003" duration="1949000" />
-      <workItem from="1721088932694" duration="600000" />
+      <workItem from="1721088932694" duration="910000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
